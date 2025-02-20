@@ -4,6 +4,7 @@
 - Weather API and API key from OpenWeatherMap - [OpenWeatherMap](https://openweathermap.org/api)
 
 Preview
+
 ![](/images/image.png)
 
 
